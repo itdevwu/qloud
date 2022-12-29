@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wu"
+  given-names: "Zhenglong"
+  orcid: "https://orcid.org/0000-0002-1956-2877"
+title: "Qloud"
+version: 0.1.0
+date-released: 2022-12-29
+url: "https://github.com/itdevwu/qloud"
