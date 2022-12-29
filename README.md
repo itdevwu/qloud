@@ -8,10 +8,10 @@
 
 # What is Qloud?
 
-***Qloud*** is web platform demonstrating some of the classic quantum algorithms.
+***Qloud*** is a web platform demonstrating some of the classic quantum algorithms.
 It can simulate quantum computer on both quantum and classical hardwares.
 [Microsoft Q#](https://learn.microsoft.com/en-us/azure/quantum/overview-what-is-qsharp-and-qdk) is the key to such capabilities.
-Qloud can create quantum experiment tasks according to user input from the web side, and then do the simulation/experiment on its Q# backend.
+Qloud can create quantum experiment tasks according to user input from the web side, and then do the simulations/experiments on its Q# backend.
 
 # Features
 
