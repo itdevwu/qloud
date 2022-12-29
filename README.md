@@ -3,7 +3,7 @@
 <a href="https://github.com/itdevwu/qloud"><img src="./qloud-web/src/quantum.svg" width=20%></img></a>
 
 <a href="https://docs.itdevwu.com"><img src="https://docs.itdevwu.com/img/itdevwu-opensource.svg" width=23%></img></a>
-
+<img alt="GitHub" src="https://img.shields.io/github/license/itdevwu/qloud?style=for-the-badge">
 </div>
 
 # What is Qloud?
